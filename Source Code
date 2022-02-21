@@ -1,0 +1,38 @@
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Runtime.Versioning;
+
+// Assembly modmenu, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 7F1E89D6-28F5-406A-BFC8-7435AF5B327D
+// Assembly references:
+// mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+// UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// 0Harmony, Version=2.7.0.0, Culture=neutral, PublicKeyToken=null
+// UnityEngine.XRModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// PhotonRealtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// BepInEx, Version=5.4.18.0, Culture=neutral, PublicKeyToken=null
+// PhotonUnityNetworking, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+// System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+// UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+
+[assembly: CompilationRelaxations(8)]
+[assembly: RuntimeCompatibility(WrapNonExceptionThrows = true)]
+[assembly: Debuggable(DebuggableAttribute.DebuggingModes.Default | DebuggableAttribute.DebuggingModes.DisableOptimizations | DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints | DebuggableAttribute.DebuggingModes.EnableEditAndContinue)]
+[assembly: AssemblyTitle("modmenu")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("modmenu")]
+[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyTrademark("")]
+[assembly: ComVisible(false)]
+[assembly: Guid("6f4df043-b24a-4ccc-a363-0371af48d2fd")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: TargetFramework(".NETFramework,Version=v4.7.2", FrameworkDisplayName = ".NET Framework 4.7.2")]
+[assembly: AssemblyVersion("1.0.0.0")]
